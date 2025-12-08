@@ -1,0 +1,6 @@
+ui\Salmontt_S7.class
+model\PlantaProceso.class
+model\CentroCultivo.class
+model\CentroCultivoPlanta.class
+model\UnidadOperativa.class
+data\GestorUnidades.class
